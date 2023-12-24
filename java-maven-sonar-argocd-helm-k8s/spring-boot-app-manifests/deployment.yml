@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: kadharalij/image2:replaceImageTag
+        image: kadharalij/image2:9
         ports:
         - containerPort: 8080
